@@ -14,7 +14,7 @@ I'm an application developer with over 8 years of experience in building robust 
 - Continuously improve and optimize existing codebases.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashu090990&show_icons=true&theme=default)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/ashish-lonare-52a24268/)
