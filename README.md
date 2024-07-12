@@ -17,7 +17,7 @@ I'm an application developer with over 8 years of experience in building robust 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
 ## 📫 How to reach me
-- [LinkedIn(https://www.linkedin.com/in/ashish-lonare-52a24268/)]
+- [LinkedIn](https://www.linkedin.com/in/ashish-lonare-52a24268/)
 - [Email](mailto:ashish.lonare999@.com)
 
 Feel free to check out my repositories and projects. I'm always open to connecting with fellow developers and collaborating on exciting projects.
