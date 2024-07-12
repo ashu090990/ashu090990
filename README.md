@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ashish Lonare 👋
 
-<!--
-**ashu090990/ashu090990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an application developer with over 8 years of experience in building robust and user-friendly applications. My expertise spans across various technologies including React Native, Android, PHP, and Flutter.
 
-Here are some ideas to get you started:
+## 🛠 Skills & Expertise
+- **React Native:** Crafting seamless and high-performance mobile applications.
+- **Android:** Developing native Android applications with a focus on performance and user experience.
+- **PHP:** Building dynamic and scalable web applications.
+- **Flutter:** Creating cross-platform applications with beautiful UIs and efficient codebases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+- Develop and maintain mobile and web applications.
+- Collaborate with cross-functional teams to deliver high-quality software solutions.
+- Continuously improve and optimize existing codebases.
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+## 📫 How to reach me
+- [LinkedIn][(https://www.linkedin.com/in/ashish-lonare-52a24268/)]
+- [Email](mailto:ashish.lonare999@.com)
+
+Feel free to check out my repositories and projects. I'm always open to connecting with fellow developers and collaborating on exciting projects.
+
+---
+
+Thanks for visiting! Have a great day! 😄
+
